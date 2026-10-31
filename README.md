@@ -7,7 +7,6 @@ I'm a computer engineering student who likes taking a half-formed idea and turni
 <p>
   <a href="https://github.com/kri3377?tab=repositories"><img src="./btn-projects.svg" alt="Projects"></a>
   <a href="https://github.com/kri3377"><img src="./btn-github.svg" alt="GitHub"></a>
-  <a href="YOUR-FACEBOOK-URL"><img src="./btn-facebook.svg" alt="Facebook"></a>
 </p>
 
 <img src="./h-projects.svg" alt="Projects" width="100%">
@@ -27,7 +26,7 @@ I'm a computer engineering student who likes taking a half-formed idea and turni
 
 <img src="./h-elsewhere.svg" alt="Elsewhere" width="100%">
 
-I also make content on Facebook, so come say hello.
+
 
 <p align="center">
   <img src="./footer.svg" alt="End of catalogue" width="100%">
