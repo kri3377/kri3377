@@ -1,73 +1,34 @@
+<p align="center">
+  <img src="./banner.svg" alt="Kritika Paudel" width="100%">
+</p>
 
-<div align="center">
+I'm a computer engineering student who likes taking a half-formed idea and turning it into something that actually runs. Most of my time goes into Python backends, small web apps, and working out where AI is genuinely useful and where it's just decoration.
 
-# Hey, I'm Kritika Paudel 👋
+<p>
+  <a href="https://github.com/kri3377?tab=repositories"><img src="./btn-projects.svg" alt="Projects"></a>
+  <a href="https://github.com/kri3377"><img src="./btn-github.svg" alt="GitHub"></a>
+  <a href="YOUR-FACEBOOK-URL"><img src="./btn-facebook.svg" alt="Facebook"></a>
+</p>
 
-### Computer Engineering Student | Software Developer | AI Enthusiast
+<img src="./h-projects.svg" alt="Projects" width="100%">
 
-Building ideas into practical applications, one project at a time.
+| Title | Description | Language |
+|---|---|---|
+| **[HireLens](https://github.com/kri3377)** | Analyses interview responses and matches resumes against job descriptions. I worked on the AI integration, backend API, and database layer. | Python |
+| **[StudyFlow](https://github.com/kri3377)** | Study and task planner for keeping coursework under control. | Next.js |
+| **[Reserve](https://github.com/kri3377)** | Event management system with booking and admin flows. | Flask |
+| **Phishing Detector** | Early concept for flagging suspicious emails and URLs. | Python |
 
-[![GitHub](https://img.shields.io/badge/GitHub-kri3377-181717?style=flat&logo=github)](https://github.com/kri3377)
+<img src="./h-tools.svg" alt="Tools" width="100%">
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,flask,nextjs,git,github&theme=dark" alt="Python, JavaScript, Flask, Next.js, Git, GitHub">
+</p>
 
----
+<img src="./h-elsewhere.svg" alt="Elsewhere" width="100%">
 
-## 🌱 About Me
+I also make content on Facebook, so come say hello.
 
-- 🎓 Computer Engineering student.
-- 💻 Interested in software development and artificial intelligence.
-- 🤖 Working on AI-powered applications and intelligent systems.
-- 🔧 Experience with frontend, backend, APIs, databases, and AI integration.
-- 🚀 Interested in hackathons, collaboration, and continuous learning.
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Interests**
-
-![AI](https://img.shields.io/badge/Artificial_Intelligence-7B68EE?style=flat)
-![Backend](https://img.shields.io/badge/Backend_Development-4169E1?style=flat)
-![Web](https://img.shields.io/badge/Web_Development-20A4A9?style=flat)
-
-## 🚀 Featured Projects
-
-### 🤖 HireLens
-AI-Assisted Interview Analysis System
-
-- AI integration and candidate skill matching.
-- Backend API development and database integration.
-- Debugging and system integration.
-- Resume and job description matching.
-
-### 📚 StudyFlow
-Personal productivity and study management application.
-
-### 🔐 Phishing Detection System
-An application concept focused on identifying suspicious emails and URLs.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kri3377&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kri3377&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kri3377&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*Learning. Building. Improving.* ✨
-
-</div>
+<p align="center">
+  <img src="./footer.svg" alt="End of catalogue" width="100%">
+</p>
