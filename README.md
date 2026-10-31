@@ -24,7 +24,6 @@ I'm a computer engineering student who likes taking a half-formed idea and turni
   <img src="https://skillicons.dev/icons?i=python,js,flask,nextjs,git,github&theme=dark" alt="Python, JavaScript, Flask, Next.js, Git, GitHub">
 </p>
 
-<img src="./h-elsewhere.svg" alt="Elsewhere" width="100%">
 
 
 
